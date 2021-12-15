@@ -52,7 +52,7 @@ public class GamePanel extends JPanel implements ActionListener {
             g.drawLine(i*UNIT_SIZE,0,i*UNIT_SIZE,SCREEN_HEIGHT);
             g.drawLine(0,i*UNIT_SIZE,SCREEN_HEIGHT,i*UNIT_SIZE);
         }
-        g.setColor(Color.RED);
+        g.setColor(Color.ORANGE);
         g.fillOval(fruitX, fruitY, UNIT_SIZE, UNIT_SIZE);
     }
 
