@@ -1,2 +1,2 @@
-#### TYPICAL SNAKE GAME
-##### but in JAVA
+### SNAKE GAME
+##### Lib: Java Swing
